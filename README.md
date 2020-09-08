@@ -1,4 +1,4 @@
-![alt text](https://github.com/luisgmfarias/controw/blob/master/assets/logo.png?raw=true)
+![alt text](https://github.com/luisgmfarias/controw/blob/master/app/assets/images/logo.png?raw=true)
 # controw
 App Gerenciador de carteira de investimentos
 
